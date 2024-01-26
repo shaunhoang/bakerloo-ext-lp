@@ -1,4 +1,4 @@
-![](img/Map copy.png) 
+![](img/mapcopy.png) 
 
 ## Bakerloo Line Extension Station Location Analysis
 This document summarizes the key findings and methodology of a research project using linear programming to analyze optimal station locations for the Bakerloo Line Extension (BLE) in South London.
